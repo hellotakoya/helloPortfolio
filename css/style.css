@@ -232,3 +232,14 @@ footer {
 .wpcf7 {
   padding: 40px 33%;
 }
+
+.instagram{
+  margin-right: 10px;
+  margin-left: 10px;
+  max-width: 100%;
+}
+
+.image-30{
+  height: 7%;
+  width: 7%;
+}
